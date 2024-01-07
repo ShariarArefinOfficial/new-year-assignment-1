@@ -46,7 +46,9 @@ header{
 /*Header*/
 
 /*main*/
-   /*offer*/
+   
+
+/*offer Start*/
    .offer-color{
      color: #F00;
 
@@ -80,6 +82,99 @@ header{
     width: 802.9px;
     height: 500px;
    }
+   /*offer Ends*/
+
+   /*Party Start*/
+   .party{
+    background: url('../images/Vectorrr.png');
+    width: 1320px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin:0 auto;
+    height: 100%;
+    border-radius: 16px;
+}
+
+.party-container{
+    display: flex;
+    gap:39.17px;
+    align-items: center;
+}
+.party-col{
+    padding:126px 0 142px 126px;
+    display:block;
+}
+.party-title{
+    color: #FFF;
+font-size: 64px;
+font-weight: 900;
+line-height: 88px; /* 137.5% */
+letter-spacing: 7.04px;
+}
+.party-content{
+    color: rgba(255, 255, 255, 0.80);
+font-family: Inter;
+font-size: 18px;
+font-weight: 400;
+line-height: 30px; /* 166.667% */
+width: 574px;
+padding-top:24px;
+
+
+}
+.party-button-custom{
+    color: #FFF;
+font-family: Inter;
+font-size: 20px;
+font-weight: 700;
+text-transform: uppercase;
+background: none;
+    border: 0;
+    padding-top: 48px;
+}
+.Party-Years{
+    padding: 68px 138px 68px 0px;
+}
+
+   /*Party Ends*/
+   /* Hotel*/
+   .hotel{
+    width: 1320px;
+    margin:0 auto;
+   }
+   .hotel-container{
+    margin-top:120px;
+    background:linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
+    padding:100px 0px 126px 0px;
+
+   }
+   .hotel-title{
+    color: #070211;
+font-family: Inter;
+font-size: 32px;
+font-weight: 600;
+line-height: 56px;
+text-transform: capitalize;
+   }
+   .hotel-button{
+    margin: 0 auto;
+    display: block;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 700;
+    text-transform: uppercase; 
+    background-color: #F00;
+    padding:16px 32px;
+    border:0;
+    border-radius: 8px; 
+ }
+ .hotel button{
+    margin-top:48px;
+ }
+   /* Hotel ENds*/
+   /* Comming Soon*/
+
 
 /*main*/
 
