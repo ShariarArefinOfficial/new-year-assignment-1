@@ -112,29 +112,29 @@ header{
 }
 .party-title{
     color: #FFF;
-font-size: 64px;
-font-weight: 900;
-line-height: 88px; /* 137.5% */
-letter-spacing: 7.04px;
+    font-size: 64px;
+    font-weight: 900;
+    line-height: 88px; /* 137.5% */
+    letter-spacing: 7.04px;
 }
 .party-content{
     color: rgba(255, 255, 255, 0.80);
-font-family: Inter;
-font-size: 18px;
-font-weight: 400;
-line-height: 30px; /* 166.667% */
-width: 574px;
-padding-top:24px;
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px; /* 166.667% */
+    width: 574px;
+    padding-top:24px;
 
 
 }
 .party-button-custom{
     color: #FFF;
-font-family: Inter;
-font-size: 20px;
-font-weight: 700;
-text-transform: uppercase;
-background: none;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 700;
+    text-transform: uppercase;
+    background: none;
     border: 0;
     padding-top: 48px;
 }
@@ -143,7 +143,7 @@ background: none;
 }
 
    /*Party Ends*/
-   /* Hotel*/
+   /* Hotel Starts*/
    .hotel{
     width: 1320px;
     margin:0 auto;
@@ -156,11 +156,11 @@ background: none;
    }
    .hotel-title{
     color: #070211;
-font-family: Inter;
-font-size: 32px;
-font-weight: 600;
-line-height: 56px;
-text-transform: capitalize;
+    font-family: Inter;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 56px;
+    text-transform: capitalize;
    }
    .hotel-button{
     margin: 0 auto;
@@ -179,7 +179,7 @@ text-transform: capitalize;
     margin-top:48px;
  }
    /* Hotel ENds*/
-   /* Comming Soon*/
+   /* Comming Soon Starts*/
    .coming-soon{
     width:1320px;
     margin:0 auto;
@@ -199,27 +199,28 @@ text-transform: capitalize;
    }
    .coming-soon-title{
     color: #070211;
-font-size: 48px;
-font-weight: 900;
-text-transform: capitalize;
+    font-size: 48px;
+    font-weight: 900;
+    text-transform: capitalize;
    }
 .coming-soon-content{
     color: rgba(7, 2, 17, 0.60);
-font-family: Inter;
-font-size: 20px;
-font-weight: 400;
-line-height: 32px; /* 160% */
-padding-top:22px;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px; /* 160% */
+    padding-top:22px;
 }
 .coming-soon-2024{
     
-font-family: Inter;
-font-size: 48px;
-font-weight: 700;
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 700;
 }
 .bottom-coming-soon{
     padding-top:43px;
 }
+/*comming soon ENds*/
 /*function Start*/
 .function{
     width:1320px;
@@ -228,14 +229,14 @@ font-weight: 700;
 
 .function-little-head{
     color: #070211;
-font-family: Inter;
-font-size: 24px;
-font-weight: 500;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
 }
 .function-title{
     color: #070211;
-font-size: 72px;
-font-weight: 900;
+    font-size: 72px;
+    font-weight: 900;
 }
 .function-content{
     color: rgba(7, 2, 17, 0.60);
@@ -266,31 +267,32 @@ font-weight: 900;
 .funtion-img{
     margin-bottom:226px;
 }
+/*function ends*/
 /*best gift */
 .best-gift{
     width:1320px;
     margin:0 auto;
 }
 .best-gift-little-title{
-font-family: Inter;
-font-size: 24px;
-font-weight: 500;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
 }
 .best-gift-title{
     color: #070211;
-font-size: 48px;
-font-weight: 900;
-text-transform: capitalize;
+    font-size: 48px;
+    font-weight: 900;
+    text-transform: capitalize;
 }
 .best-gift-content{
     color: rgba(7, 2, 17, 0.60);
-font-family: Inter;
-font-size: 20px;
-font-weight: 400;
-line-height: 32px; /* 160% */
-width: 750px;
-padding-top: 22px;
-padding-bottom: 24px;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px; /* 160% */
+    width: 750px;
+    padding-top: 22px;
+    padding-bottom: 24px;
 }
 .best-gift-row{
     display: flex;
@@ -329,18 +331,18 @@ padding-bottom: 24px;
    }
    .newsletter-title{
     color: #070211;
-font-size: 48px;
-font-weight: 900;
-text-transform: capitalize;
+    font-size: 48px;
+    font-weight: 900;
+    text-transform: capitalize;
    }
    .newsletter-content{
     color: rgba(7, 2, 17, 0.60);
-font-family: Inter;
-font-size: 20px;
-font-weight: 400;
-line-height: 32px;
-width: 50%; 
-margin: 0 auto;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+    width: 50%; 
+    margin: 0 auto;
    }
  
    input[type="email"]{
@@ -357,15 +359,15 @@ margin: 0 auto;
 input[type="submit"]{
     border-radius: 0px  50px 50px 0px;
     color: #FFF;
-font-family: Inter;
-font-size: 20px;
-font-weight: 600;
-text-transform: capitalize;
-padding: 23px 40px;
-background-color: #F00;
-border: 0;
-margin-left: -5px;
-width:30%;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 600;
+    text-transform: capitalize;
+    padding: 23px 40px;
+    background-color: #F00;
+    border: 0;
+    margin-left: -5px;
+    width:30%;
 
 }
 .form{
@@ -396,7 +398,7 @@ footer{
 }
 li{
     list-style: none;
-    align-items: center;
+    margin-right: 60px;
 }
 hr{
     background: rgba(255, 255, 255, 0.15);
@@ -407,10 +409,10 @@ hr{
 }
 .address-content{
     color: #FFF;
-font-family: Inter;
-font-size: 24px;
-font-weight: 500;
-line-height: 40px; /* 166.667% */
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 40px; /* 166.667% */
 }
 .add-img-gap{
     margin-right: 10px;
@@ -433,10 +435,10 @@ line-height: 40px; /* 166.667% */
 }
 .reserve-content{
     color: #FFF;
-font-family: Inter;
-font-size: 24px;
-font-weight: 500;
-line-height: 40px; 
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 40px; 
 }
 
 
