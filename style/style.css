@@ -298,6 +298,14 @@ padding-bottom: 24px;
     align-items: center;
     padding-top:24px;
 }
+.best-gift-col{
+    transition: 1s;
+}
+.best-gift-col:hover{
+
+    transform: scale(1.1);
+    z-index: 2;
+}
 
 /*best-gift-end*/
 /*newsletter*/
@@ -382,9 +390,9 @@ footer{
     margin: 0 auto;
 }
 .address-container{
-    padding: 120px 0px;
+    padding: 120px 0px 50px 0px;
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
 }
 li{
     list-style: none;
@@ -395,6 +403,7 @@ hr{
 }
 .address-container p{
     width: 55%;
+    justify-content: left;
 }
 .address-content{
     color: #FFF;
@@ -402,6 +411,9 @@ font-family: Inter;
 font-size: 24px;
 font-weight: 500;
 line-height: 40px; /* 166.667% */
+}
+.add-img-gap{
+    margin-right: 10px;
 }
 .image-container{
     padding:48px 0;
