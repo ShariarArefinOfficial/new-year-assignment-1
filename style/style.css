@@ -64,20 +64,20 @@ header{
     }
    .offer-title{
 
-     font-family: Inter;
+    font-family: 'Inter', sans-serif;
      font-size: 88px;
      font-weight: 700;
 
    }
    .offer-holyday{
-    font-family: Inter;
+    font-family: 'Inter', sans-serif;
     font-size: 24px;
     font-weight: 500;
     margin-top:48px;
    }
    .offer-categories{
     color: #070211;
-    font-family: Inter;
+    font-family: 'Inter', sans-serif;
     font-size: 48px;
     font-weight: 700;
    }
@@ -120,7 +120,7 @@ header{
 }
 .party-content{
     color: rgba(255, 255, 255, 0.80);
-    font-family: Inter;
+    font-family: 'Inter', sans-serif;
     font-size: 18px;
     font-weight: 400;
     line-height: 30px; /* 166.667% */
@@ -131,7 +131,7 @@ header{
 }
 .party-button-custom{
     color: #FFF;
-    font-family: Inter;
+    font-family: 'Inter', sans-serif;
     font-size: 20px;
     font-weight: 700;
     text-transform: uppercase;
@@ -157,7 +157,8 @@ header{
    }
    .hotel-title{
     color: #070211;
-    font-family: Inter;
+    font-family: 'Inter', sans-serif;
+
     font-size: 32px;
     font-weight: 600;
     line-height: 56px;
@@ -167,7 +168,7 @@ header{
     margin: 0 auto;
     display: block;
     color: #FFF;
-    font-family: Inter;
+    font-family: 'Inter', sans-serif;
     font-size: 20px;
     font-weight: 700;
     text-transform: uppercase; 
@@ -194,7 +195,7 @@ header{
 
    }
    .coming-soon-little-head{
-    font-family: Inter;
+    font-family: 'Inter', sans-serif;
     font-size: 24px;
     font-weight: 500;
    }
@@ -206,7 +207,7 @@ header{
    }
 .coming-soon-content{
     color: rgba(7, 2, 17, 0.60);
-    font-family: Inter;
+    font-family: 'Inter', sans-serif;
     font-size: 20px;
     font-weight: 400;
     line-height: 32px; /* 160% */
@@ -214,7 +215,7 @@ header{
 }
 .coming-soon-2024{
     
-    font-family: Inter;
+    font-family: 'Inter', sans-serif;
     font-size: 48px;
     font-weight: 700;
 }
@@ -230,7 +231,7 @@ header{
 
 .function-little-head{
     color: #070211;
-    font-family: Inter;
+    font-family: 'Inter', sans-serif;
     font-size: 24px;
     font-weight: 500;
 }
@@ -241,7 +242,7 @@ header{
 }
 .function-content{
     color: rgba(7, 2, 17, 0.60);
-    font-family: Inter;
+    font-family: 'Inter', sans-serif;
     font-size: 20px;
     font-style: normal;
     font-weight: 500;
@@ -275,7 +276,7 @@ header{
     margin:0 auto;
 }
 .best-gift-little-title{
-    font-family: Inter;
+    font-family: 'Inter', sans-serif;
     font-size: 24px;
     font-weight: 500;
 }
@@ -287,7 +288,8 @@ header{
 }
 .best-gift-content{
     color: rgba(7, 2, 17, 0.60);
-    font-family: Inter;
+    
+    font-family: 'Inter', sans-serif;
     font-size: 20px;
     font-weight: 400;
     line-height: 32px; /* 160% */
@@ -338,7 +340,7 @@ header{
    }
    .newsletter-content{
     color: rgba(7, 2, 17, 0.60);
-    font-family: Inter;
+    font-family: 'Inter', sans-serif;
     font-size: 20px;
     font-weight: 400;
     line-height: 32px;
@@ -348,7 +350,8 @@ header{
  
    input[type="email"]{
     color: rgba(7, 2, 17, 0.30);
-    font-family: Inter;
+    
+    font-family: 'Inter', sans-serif;
     font-size: 18px;
     font-weight: 400;
     line-height: normal;
@@ -360,7 +363,7 @@ header{
 input[type="submit"]{
     border-radius: 0px  50px 50px 0px;
     color: #FFF;
-    font-family: Inter;
+    font-family: 'Inter', sans-serif;
     font-size: 20px;
     font-weight: 600;
     text-transform: capitalize;
@@ -410,7 +413,7 @@ hr{
 }
 .address-content{
     color: #FFF;
-    font-family: Inter;
+    font-family: 'Inter', sans-serif;
     font-size: 24px;
     font-weight: 500;
     line-height: 40px; /* 166.667% */
