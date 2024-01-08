@@ -30,7 +30,8 @@ header{
     margin:0 auto;
     height: 100%;
     border-radius: 16px;
-    filter: brightness(0.5);
+    background-blend-mode: overlay;
+
 }
 .hero-container{
     padding:177px 0;
@@ -97,7 +98,7 @@ header{
     margin:0 auto;
     height: 100%;
     border-radius: 16px;
-    filter: brightness(0.5);
+    background-blend-mode: overlay;
 }
 
 .party-container{
@@ -243,7 +244,7 @@ font-weight: 900;
     font-style: normal;
     font-weight: 500;
     line-height: 32px;
-    width: 55%;
+    width: 43%;
     margin: 0 auto;
 
 }
@@ -297,9 +298,7 @@ padding-bottom: 24px;
     align-items: center;
     padding-top:24px;
 }
-.best-gift-container{
-    padding-bottom:120px;
-}
+
 /*best-gift-end*/
 /*newsletter*/
 .newsletter{
@@ -332,7 +331,7 @@ font-family: Inter;
 font-size: 20px;
 font-weight: 400;
 line-height: 32px;
-width: 55%; 
+width: 50%; 
 margin: 0 auto;
    }
  
@@ -389,6 +388,7 @@ footer{
 }
 li{
     list-style: none;
+    align-items: center;
 }
 hr{
     background: rgba(255, 255, 255, 0.15);
